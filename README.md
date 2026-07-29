@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sohail Ahmad
 
-<!--
-**burusho786/burusho786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer passionate about building scalable Spring Boot applications and AI-powered solutions. Experienced in Java, MongoDB, Redis, Kafka, Machine Learning, and Retrieval-Augmented Generation (RAG) systems.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- MongoDB
+- Redis
+- Apache Kafka
+- Docker
+- Python
+- TensorFlow
+- PyTorch
+- Ollama
+- REST APIs
+- JWT Authentication
+
+## Featured Projects
+
+### GitStatus
+AI-powered GitHub Repository Intelligence Platform.
+
+### Burusho Dictionary
+AI-powered Burushaski Dictionary with Retrieval-Augmented Generation (RAG).
+
+### AI Journal
+Secure journal backend featuring JWT authentication, Kafka, Redis, and AI sentiment analysis.
+
+### TruthLens
+CNN-based Deepfake Face Detection System.
+
+## Currently Learning
+
+- Docker
+- Kubernetes
+- Distributed Systems
+- System Design
+
+## Contact
+
+Email: burusho786@gmail.com
+
