@@ -17,7 +17,6 @@ CNN-based Deepfake Face Detection System.
 
  Currently Learning
 
-- Docker
 - Kubernetes
 - Distributed Systems
 - System Design
