@@ -1,27 +1,20 @@
-Hi, I'm Sohail Ahmad
 
-Backend Software Engineer passionate about building scalable Spring Boot applications and AI-powered solutions. Experienced in Java, MongoDB, Redis, Kafka, Machine Learning, and Retrieval-Augmented Generation (RAG) systems.
+Backend Software Engineer focused on building scalable **Spring Boot applications, AI-powered systems, and distributed backend services**.
 
+Experienced with **Java, Spring Boot, MongoDB, Redis, Kafka, Docker, Machine Learning, LLMs, and Retrieval-Augmented Generation (RAG)**.
 
-GitStatus
-AI-powered GitHub Repository Intelligence Platform.
+* Docker & Containerization
+* Kubernetes & Container Orchestration
+* Distributed Systems
+* System Design
+* Microservices Architecture
 
- Burusho Dictionary
-AI-powered Burushaski Dictionary with Retrieval-Augmented Generation (RAG).
+Interests
 
- AI Journal
-Secure journal backend featuring JWT authentication, Kafka, Redis, and AI sentiment analysis.
+* Backend Engineering
+* AI & LLM Applications
+* RAG Systems
+* Distributed Systems
+* Cloud-Native Architecture
 
- TruthLens
-CNN-based Deepfake Face Detection System.
-
- Currently Learning
-
-- Kubernetes
-- Distributed Systems
-- System Design
-
- Contact
-
-Email: burusho786@gmail.com
-
+(mailto:burusho786@gmail.com)
